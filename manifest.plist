@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   manifest.plist
+   ICTManage
+
+   Created by PL on 2019/9/16.
+   Copyright (c) 2019 ronhuiqihuo. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://github.com/mo7390z/jiaoyou_1/blob/master/WeChat.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.tz.wc.01</string>
+                    <key>bundle-version</key>
+                    <string>7.0.5</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>交友</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
